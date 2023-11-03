@@ -1,0 +1,6 @@
+# EVIROMENT
+
+.env
+node_modules
+build
+coverage
